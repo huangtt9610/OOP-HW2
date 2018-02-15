@@ -1,0 +1,53 @@
+Enter your value: 
+0 is a palindrome
+
+
+Enter your value: 
+1001 is a palindrome
+
+
+Enter your value: 
+iiii is a palindrome
+
+
+Enter your value: 
+iii is a palindrome
+
+
+Enter your value: 
+lool is a palindrome
+
+
+Enter your value: 
+Lool is not a palindrome
+
+
+Enter your value: 
+OhhO is a palindrome
+
+
+Enter your value: 
+PPNP is not a palindrome
+
+
+Enter your value: 
+PNP is a palindrome
+
+
+Enter your value: 
+111 is a palindrome
+
+
+Enter your value: 
+2 is a palindrome
+
+
+Enter your value: 
+1 is a palindrome
+
+
+Enter your value: 
+HioiH is a palindrome
+
+
+Enter your value: 

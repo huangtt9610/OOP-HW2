@@ -1,0 +1,5 @@
+Question 5:
+Scanner s=new Scanner(System.in).useDelimiter(",");
+
+Question 6:
+Scanner s=new Scanner(System.in).useDelimiter("");
